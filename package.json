@@ -1,0 +1,14 @@
+{
+  "name": "nodejs_docker_diplomski",
+  "version": "1.0.0",
+  "description": "Nodejs na Dockeru",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "author": "Stijepo Vrdoljak",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
